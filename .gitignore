@@ -1,0 +1,5 @@
+ggtypt-reservation-helper.raw.js
+.DS_Store
+node_modules/
+*.map
+*.log
