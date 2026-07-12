@@ -3,5 +3,5 @@ ggtypt-reservation-helper.raw.js
 node_modules/
 *.map
 *.log
-tmp_chaojiying_test/
+tmp/
 tools/
